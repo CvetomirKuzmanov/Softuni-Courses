@@ -1,3 +1,3 @@
 # Softuni-Courses
 - First row added
-- test for conflict
+- Row after creating first branch
